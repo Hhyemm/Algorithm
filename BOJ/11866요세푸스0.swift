@@ -22,3 +22,6 @@ func josephus() {
 
     print("<\(result.map{String($0)}.joined(separator: ", "))>")
 }
+
+
+
